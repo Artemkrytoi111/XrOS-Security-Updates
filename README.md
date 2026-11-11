@@ -58,6 +58,11 @@ sudo pacman -Syu
 скачивает обновления без входа в GitHub, поэтому закрытым он быть
 не может. Секретов здесь нет — только пакеты и база репозитория.
 
+## Лицензия
+
+GNU General Public License v3 — как в основном проекте XrOS.
+Полный текст: [LICENSE](LICENSE).
+
 ## Ссылки
 
 - Основной проект XrOS: https://github.com/Artemkrytoi111/XrOS (закрытый)
